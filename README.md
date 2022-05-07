@@ -6,4 +6,5 @@ We encourage you to use either IntelliJ IDE in order to get the best support fro
 
 ## Running the Project
 Compile and Run the project. Use telnet or netcat to connect to the server and test the protocol.
+
 Complete TODOs to complete this lab.
